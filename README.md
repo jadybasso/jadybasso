@@ -64,7 +64,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/gmail-ABD200?style=for-the-badge&logoColor=ffffff&logoSize=auto
-)](mailto:jadybassoa@gmail.com)
+)](jadybassoa@gmail.com)
   [![Instagram](https://img.shields.io/badge/instagram-DA5B0B?style=for-the-badge&logo=instagram&logoColor=ffffff&logoSize=auto
 )](https://www.instagram.com/jady_bahh?igsh=bW9hbjRudm1sNWd2)
   [![Linkedin](https://img.shields.io/badge/linkedin-5D7401?style=for-the-badge&logoColor=ffffff&logoSize=auto
