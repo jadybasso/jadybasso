@@ -1,15 +1,8 @@
-<br>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.ibb.co/Kp9591nG/3-Sem-T-tulo-20260605163311.png" />
-</div>
-
-<div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hiiii! I'm <b>Jady Basso</b>
+      Hiiii! I'm <b>Jady Basso.</b>
   </samp>
 </div>
 
