@@ -1,6 +1,10 @@
 <div align="center" width="100%">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadybasso&theme=merko"/>
+  Olá! me chamo Jady, tenho 17 anos e moro em Caxias do Sul/RS. Atualmente faço robótica no SENAI <br>
+  mecatrônica e estudo programação de software juntamente com o hardware, sinta-se à vontade no meu <br>
+  perfil! :)
 </div>
+
+##
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
